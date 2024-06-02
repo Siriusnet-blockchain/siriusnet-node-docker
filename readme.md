@@ -5,7 +5,7 @@
  - Git installed
 
 
-```
+```zsh
 git clone https://github.com/gitamgadtaula/siriusnet-docker-node.git
 cd siriusnet-docker-node
 

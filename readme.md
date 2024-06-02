@@ -1,6 +1,13 @@
+# RUN the siriusnet node with docker
 
+### Prerequisites
+ - System with docker daemon installed
+ - Git installed
+
+ 
 ```
-
+git clone https://github.com/gitamgadtaula/siriusnet-docker-node.git
+cd siriusnet-docker-node
 
 docker run -p 30303:30303 -p 30304:30304 -p 8546:8546 \
   --name besu-node \

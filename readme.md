@@ -1,6 +1,6 @@
-# RUN the siriusnet node with docker
+# RUN a siriusnet node with docker
 
-### Prerequisites
+### Pre-requisites
  - System with docker daemon installed
  - Git installed
 

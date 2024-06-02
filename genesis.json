@@ -1,0 +1,20 @@
+{
+  "config": {
+    "berlinBlock": 0,
+    "ethash": {
+      "fixeddifficulty": 2000
+    },
+    "chainID": 217
+  },
+  "nonce": "0x42",
+  "gasLimit": "0x1000000",
+  "difficulty": "0x10000",
+  "alloc": {
+    "4184b9E7c004cde74ace917B4c70f5c734A0A34e": {
+      "balance": "0xad78ebc5ac6200000000000"
+    },
+    "27c0a0f335FDc870F506864d160176E2d4F15160": {
+      "balance": "9000000000000000000000000000000"
+    }
+  }
+}
